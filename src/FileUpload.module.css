@@ -1,0 +1,28 @@
+.container {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .dropzone {
+    border: 2px dashed #ccc;
+    padding: 20px;
+    margin-bottom: 20px;
+  }
+  
+  .selected-file {
+    margin-top: 20px;
+  }
+  
+  .selected-file p {
+    margin-bottom: 10px;
+  }
+  
+  .button {
+    background-color: #4285f4;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+  }
